@@ -24,7 +24,7 @@ def run():
 
 
 if __name__ == "__main__":
-    running()
+    run()
 
 
 # ---------- core/utils.py ----------
