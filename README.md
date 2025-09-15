@@ -11,7 +11,7 @@ Main entry point for the project.
 A robust foundation for coding experiments and future projects.
 """
 
-from core import utils, experiment!
+from core import utils, experiment
 
 
 def run():
