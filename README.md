@@ -73,4 +73,4 @@ def test_generate_random_number():
 
 def test_is_even():
     assert utils.is_even(2) is True
-    assert utils.is_even(3) is False
+    assert utils.is_even(3) is Fals
