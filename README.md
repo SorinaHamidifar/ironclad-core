@@ -8,7 +8,7 @@
 # ---------- main.py ----------
 """
 Main entry point for the project.
-A robust foundation for coding experiments and future projects.
+A robust foundation for coding experiments and future 
 """
 
 from core import utils, experiments
