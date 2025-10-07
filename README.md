@@ -15,7 +15,7 @@ from core import utils, experiments
 
 
 def run():
-    print("🚀 Starting Project Foundation"))
+    print("🚀 Starting Project Foundation")
     print("📚 Reliable, Scalable, Well-Structured Code\n")
 
     # Example usage
