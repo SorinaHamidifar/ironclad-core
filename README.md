@@ -5,7 +5,7 @@
 # Focus: Reliable, Scalable, Well-Structured Code
 # ================================
 
-# ---------- main.py ----------
+# ---------- main. ----------
 """
 Main entry point for the project.
 A robust foundation for coding experiments and future projects.
