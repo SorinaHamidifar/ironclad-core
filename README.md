@@ -2,7 +2,7 @@
 # Project: Robust Coding Foundation 
 # Description:
 # A robust foundation for coding experiments and future projects.
-# Focus: Reliable, Scal, Well-Structured Code 
+# Focus: Reliable, Scalab, Well-Structured Code 
 # ================================
 
 # ---------- main.py ----------
