@@ -1,5 +1,5 @@
 # ==================================
-# Project: Robusting Coding Foundation 
+# Project: Robustin Coding Foundation 
 # Description:
 # A robust foundation for coding experiments and future projects.
 # Focus: Reliable, Scalable, Well-Structured code
