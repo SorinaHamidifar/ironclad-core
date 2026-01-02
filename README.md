@@ -65,7 +65,7 @@ Basic test cases for utils.py
 Run with: pytest
 """
 
-from core import util
+from core import utilities
 
 def test_generate_random_number():
     num = utils.generate_random_number(1, 10)
