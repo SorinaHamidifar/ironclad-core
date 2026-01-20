@@ -62,7 +62,7 @@ def fibonacci(n: int) -> list:
 # ---------- tests/test_utils.py ----------
 """
 Basic test cases for utils.py
-Run with: py
+Run with: pytest
 """
 
 from core import utils
