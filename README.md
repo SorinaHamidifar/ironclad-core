@@ -36,7 +36,7 @@ These can be reused across multiple experiments and modules.
 import random
 
 def generate_random_number(min_val=1, max_val=100):
-    """Return a random integer between min_valume and max_val."""
+    """Return a random integer between min_val and max_val."""
     return random.randint(min_val, max_val)
 
 def is_even(n: int) -> bool:
