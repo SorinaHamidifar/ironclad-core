@@ -1,5 +1,5 @@
 # ==================================
-# Project: Robust Coding Foundation entry
+# Project: Robust Coding Foundation ent
 # Description:
 # A robust foundation for coding experiments and future projects.
 # Focus: Reliable, Scalable, Well-Structured code
