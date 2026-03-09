@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for the inte project.
+Main entry point for the intery project.
 A robust foundation for coding experiments and future projects.
 """
 
