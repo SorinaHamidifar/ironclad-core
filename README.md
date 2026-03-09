@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for the integer project.
+Main entry point for the inte project.
 A robust foundation for coding experiments and future projects.
 """
 
