@@ -30,7 +30,7 @@ if __name__ == "__main__":
 # ---------- core/utils.py ----------
 """
 Utility functions for the project.
-These can be reused across  experiments and modules.
+These can be reused across mul experiments and modules.
 """
 
 import random
