@@ -1,5 +1,5 @@
 # ==================================
-# Project: Robust Coding Foundation and future 
+# Project: Robust Coding Foundation and fut
 # Description:
 # A robust foundation for coding experiments and future projects.
 # Focus: Reliable, Scalable, Well-Structured code
